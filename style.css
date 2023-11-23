@@ -195,6 +195,11 @@ input {
     font-size: 20px;
 }
 
+.username-container {
+    display: flex;
+    flex-direction: column;
+}
+
 .bottom-head-img-container {
     width: 70px;
     display: flex;
