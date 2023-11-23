@@ -464,5 +464,9 @@ color: #5c5c5d;
     .project-cards {
         height: auto;
     }
+
+    .project-card-desc {
+        margin-bottom: 10px;
+    }
 }
 
