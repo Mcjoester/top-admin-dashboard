@@ -73,6 +73,7 @@
 
 .menu ul li, .menu-2 ul li {
     margin-bottom: 25px;
+    list-style-type: none;
 }
 
 a {
@@ -218,6 +219,10 @@ input {
     display: flex;
     align-items: center;
     gap: 20px;
+}
+
+.header-buttons ul li {
+    list-style-type: none;
 }
 
 button {
