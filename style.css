@@ -80,6 +80,7 @@ a {
     align-items: center;
     gap: 15px;
     text-decoration: none;
+    color: #f1f5f9;
 }
 
 a:visited {
